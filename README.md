@@ -3,7 +3,7 @@ KCK
 
 A Python program recognising numbers using OpenCV preprocessing and self-built neural network.
 
-Done in collaboration with @wangobango, who developed the whole neural network from scratch.
+Done in collaboration with @Loqaritm, who developed the whole neural network from scratch.
 
 # Usage
 Clone the repository:
@@ -12,7 +12,7 @@ git clone https://github.com/Loqaritm/ReadingNumbers.git
 ```
 Navigate to the newly created folder and run the program with Python:
 ```
-cd ReadingNumbers
+cd KCKprojekt
 python3 project.py [filename]
 ```
 **Important!** Do not put ".jpg" in filename. Files to be read are to be located in **data_set/** folder.
