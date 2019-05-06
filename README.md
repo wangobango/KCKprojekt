@@ -3,7 +3,7 @@ KCK
 
 A Python program recognising numbers using OpenCV preprocessing and self-built neural network.
 
-Done in collaboration with @Loqaritm, who developed the whole neural network from scratch.
+Done in collaboration with @Loqaritm, who prepared image processing involved.
 
 # Usage
 Clone the repository:
